@@ -1,0 +1,43 @@
+---
+/**
+ * SiteMark — ecommerceoperator
+ * Per-site override of stackbase's default bar-stack mark.
+ * The outer div keeps the .nav-logo-mark class so global.css 52x52
+ * dimensions apply. Per-site brand.css clears the default navy bg
+ * and stretches the SVG to fill.
+ */
+interface Props {
+  class?: string;
+  style?: string;
+}
+const { class: className = '', style } = Astro.props;
+---
+{style ? (
+  <div class:list={['nav-logo-mark', 'site-mark', className]} aria-hidden="true" style={style}>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="4" fill="#0f1a1f"/>
+  <path d="M5 8 L5 24" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M5 8 L9 8"  stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M5 24 L9 24" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M27 8 L27 24" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M23 8 L27 8" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M23 24 L27 24" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M11 13 L17 16 L11 19" stroke="#4DD0C8" stroke-width="2" fill="none" stroke-linecap="square" stroke-linejoin="miter"/>
+  <rect x="13" y="22" width="8" height="1.6" fill="#00BFA5"/>
+</svg>
+  </div>
+) : (
+  <div class:list={['nav-logo-mark', 'site-mark', className]} aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="4" fill="#0f1a1f"/>
+  <path d="M5 8 L5 24" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M5 8 L9 8"  stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M5 24 L9 24" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M27 8 L27 24" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M23 8 L27 8" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M23 24 L27 24" stroke="#00BFA5" stroke-width="1.6" stroke-linecap="square"/>
+  <path d="M11 13 L17 16 L11 19" stroke="#4DD0C8" stroke-width="2" fill="none" stroke-linecap="square" stroke-linejoin="miter"/>
+  <rect x="13" y="22" width="8" height="1.6" fill="#00BFA5"/>
+</svg>
+  </div>
+)}
