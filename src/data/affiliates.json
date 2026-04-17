@@ -7,7 +7,7 @@
     "network": "impact",
     "status": "pending",
     "category": "ecommerce-platform",
-    "notes": "The primary platform your other tools support. Apply: https://www.shopify.com/affiliates. Hosted on Impact — has API for earnings tracking."
+    "notes": "The primary platform your other tools support. Apply: https://www.shopify.com/affiliates. Hosted on Impact \u2014 has API for earnings tracking."
   },
   {
     "slug": "bigcommerce",
@@ -43,7 +43,7 @@
     "slug": "triplewhale",
     "name": "Triple Whale",
     "url": "https://www.triplewhale.com/",
-    "commission": "10–20% recurring (6-month cap)",
+    "commission": "10\u201320% recurring (6-month cap)",
     "network": "direct",
     "status": "pending",
     "category": "attribution-analytics",
@@ -61,13 +61,13 @@
   },
   {
     "slug": "recharge",
-    "name": "Recharge",
-    "url": "https://rechargepayments.com/",
+    "name": "Recharge (getrecharge.com)",
+    "url": "https://getrecharge.com/",
     "commission": "Recurring (verify 2026 terms on application)",
     "network": "direct",
     "status": "pending",
     "category": "subscriptions",
-    "notes": "Proven subscription leader with 97% renewal rate — high-trust recommendation. Apply: https://rechargepayments.com/partners/"
+    "notes": "Proven subscription leader with 97% renewal rate \u2014 high-trust recommendation. Apply: https://rechargepayments.com/partners/"
   },
   {
     "slug": "yotpo",
@@ -117,7 +117,7 @@
     "network": "direct",
     "status": "pending",
     "category": "email-sms-marketing",
-    "notes": "Strong Klaviyo alternative — often more cost-effective for smaller merchants. Apply: https://www.omnisend.com/affiliate-program"
+    "notes": "Strong Klaviyo alternative \u2014 often more cost-effective for smaller merchants. Apply: https://www.omnisend.com/affiliate-program"
   },
   {
     "slug": "jotform",
