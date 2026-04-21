@@ -112,12 +112,11 @@
   {
     "slug": "omnisend",
     "name": "Omnisend",
-    "url": "https://www.omnisend.com/",
-    "commission": "20% recurring",
-    "network": "direct",
-    "status": "pending",
-    "category": "email-sms-marketing",
-    "notes": "Strong Klaviyo alternative \u2014 often more cost-effective for smaller merchants. Apply: https://www.omnisend.com/affiliate-program"
+    "url": "https://your.omnisend.com/n4RkQ6",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Email Marketing"
   },
   {
     "slug": "jotform",
@@ -148,5 +147,50 @@
     "status": "pending",
     "category": "wordpress-hosting",
     "notes": "For store owners running WooCommerce. High-paying bounties. Hosted on ShareASale (has API). Apply: https://wpengine.com/affiliates/"
+  },
+  {
+    "slug": "invideo",
+    "name": "InVideo",
+    "url": "https://invideo.sjv.io/MX07zn",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Video & Content"
+  },
+  {
+    "slug": "retouch4me",
+    "name": "Retouch4me",
+    "url": "https://relu0u.pxf.io/rEGBZd",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Photo & Design"
+  },
+  {
+    "slug": "munch-studio",
+    "name": "Munch Studio",
+    "url": "https://goto.munchstudio.com/B5zEM1",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Social Media"
+  },
+  {
+    "slug": "sparrowdesk",
+    "name": "SparrowDesk",
+    "url": "https://sparrowdesk.pxf.io/AgmG9J",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Support & Helpdesk"
+  },
+  {
+    "slug": "melio",
+    "name": "Melio",
+    "url": "https://melio.sjv.io/bkDbo9",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Payments & Billing"
   }
 ]
