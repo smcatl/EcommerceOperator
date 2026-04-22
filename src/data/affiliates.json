@@ -1,115 +1,5 @@
 [
   {
-    "slug": "shopify",
-    "name": "Shopify",
-    "url": "https://www.shopify.com/",
-    "commission": "$150 bounty per paying merchant (one-time)",
-    "network": "impact",
-    "status": "pending",
-    "category": "ecommerce-platform",
-    "notes": "The primary platform your other tools support. Apply: https://www.shopify.com/affiliates. Hosted on Impact \u2014 has API for earnings tracking."
-  },
-  {
-    "slug": "bigcommerce",
-    "name": "BigCommerce",
-    "url": "https://www.bigcommerce.com/",
-    "commission": "200% of first monthly payment + bounty tiers (one-time)",
-    "network": "impact",
-    "status": "pending",
-    "category": "ecommerce-platform",
-    "notes": "Major alternative for mid-market and enterprise merchants that find Shopify restrictive. Apply: https://www.bigcommerce.com/partners/affiliate-program/. Hosted on Impact."
-  },
-  {
-    "slug": "klaviyo",
-    "name": "Klaviyo",
-    "url": "https://www.klaviyo.com/",
-    "commission": "Up to 20% recurring (lifetime)",
-    "network": "direct",
-    "status": "pending",
-    "category": "email-sms-marketing",
-    "notes": "Industry standard for ecommerce email/SMS. Recently expanded into product reviews. K:Partners program relaunched for 2026. Apply: https://www.klaviyo.com/partner-program"
-  },
-  {
-    "slug": "gorgias",
-    "name": "Gorgias",
-    "url": "https://www.gorgias.com/",
-    "commission": "20% recurring (first 2 years unless VIP Partner unlocks lifetime)",
-    "network": "partnerstack",
-    "status": "pending",
-    "category": "helpdesk",
-    "notes": "Ecom-specific helpdesk. Per-ticket pricing is the big selling point for scaling teams. Apply: https://www.gorgias.com/partners"
-  },
-  {
-    "slug": "triplewhale",
-    "name": "Triple Whale",
-    "url": "https://www.triplewhale.com/",
-    "commission": "10\u201320% recurring (6-month cap)",
-    "network": "direct",
-    "status": "pending",
-    "category": "attribution-analytics",
-    "notes": "Shopify-only. Powerhouse for stores doing $10M+. Note 6-month commission cap. Apply: https://www.triplewhale.com/partners"
-  },
-  {
-    "slug": "postscript",
-    "name": "Postscript",
-    "url": "https://postscript.io/",
-    "commission": "Recurring (verify 2026 terms on application)",
-    "network": "direct",
-    "status": "pending",
-    "category": "sms-marketing",
-    "notes": "Plug-and-play SMS marketing for Shopify. Easier + more affordable than competitors. Apply: https://postscript.io/partners"
-  },
-  {
-    "slug": "recharge",
-    "name": "Recharge (getrecharge.com)",
-    "url": "https://getrecharge.com/",
-    "commission": "Recurring (verify 2026 terms on application)",
-    "network": "direct",
-    "status": "pending",
-    "category": "subscriptions",
-    "notes": "Proven subscription leader with 97% renewal rate \u2014 high-trust recommendation. Apply: https://rechargepayments.com/partners/"
-  },
-  {
-    "slug": "yotpo",
-    "name": "Yotpo",
-    "url": "https://www.yotpo.com/",
-    "commission": "Recurring (verify 2026 terms on application)",
-    "network": "direct",
-    "status": "pending",
-    "category": "reviews-loyalty",
-    "notes": "Enterprise-grade all-in-one for reviews, SMS, loyalty, and subscriptions. Apply: https://www.yotpo.com/partners/"
-  },
-  {
-    "slug": "okendo",
-    "name": "Okendo",
-    "url": "https://www.okendo.io/",
-    "commission": "Recurring (verify 2026 terms on application)",
-    "network": "direct",
-    "status": "pending",
-    "category": "reviews-loyalty",
-    "notes": "Favored for 'Superfans' approach and deep UGC focus. Strong alternative to Yotpo for DTC brands. Apply: https://www.okendo.io/partners"
-  },
-  {
-    "slug": "semrush",
-    "name": "Semrush",
-    "url": "https://www.semrush.com/",
-    "commission": "$200 bounty per sale + $10 per trial (one-time)",
-    "network": "impact",
-    "status": "pending",
-    "category": "seo-marketing",
-    "notes": "Critical for merchants focused on organic growth. High bounty. Apply: https://www.semrush.com/lp/affiliate-program/en/. Hosted on Impact."
-  },
-  {
-    "slug": "hubspot",
-    "name": "HubSpot",
-    "url": "https://www.hubspot.com/",
-    "commission": "30% recurring (up to 1 year of customer payments)",
-    "network": "impact",
-    "status": "pending",
-    "category": "crm",
-    "notes": "Good for B2B ecommerce and merchants needing advanced CRM. Apply: https://www.hubspot.com/partners/affiliates. Hosted on Impact."
-  },
-  {
     "slug": "omnisend",
     "name": "Omnisend",
     "url": "https://your.omnisend.com/n4RkQ6",
@@ -117,36 +7,6 @@
     "network": "impact",
     "status": "active",
     "category": "Email Marketing"
-  },
-  {
-    "slug": "jotform",
-    "name": "Jotform (Agency)",
-    "url": "https://www.jotform.com/",
-    "commission": "30% recurring (Agency tier, lifetime)",
-    "network": "direct",
-    "status": "pending",
-    "category": "forms-data",
-    "notes": "Custom order forms + lead capture beyond standard store capabilities. APPLY FOR AGENCY TIER not standard. Apply: https://www.jotform.com/affiliate-program/"
-  },
-  {
-    "slug": "tidio",
-    "name": "Tidio",
-    "url": "https://www.tidio.com/",
-    "commission": "Recurring (verify 2026 terms on application)",
-    "network": "direct",
-    "status": "pending",
-    "category": "helpdesk-chat",
-    "notes": "Strong Gorgias alternative for smaller businesses. More affordable entry point + AI chatbots. Apply: https://www.tidio.com/partners/"
-  },
-  {
-    "slug": "wpengine",
-    "name": "WP Engine",
-    "url": "https://wpengine.com/",
-    "commission": "$200+ bounty per signup (tiered)",
-    "network": "shareasale",
-    "status": "pending",
-    "category": "wordpress-hosting",
-    "notes": "For store owners running WooCommerce. High-paying bounties. Hosted on ShareASale (has API). Apply: https://wpengine.com/affiliates/"
   },
   {
     "slug": "invideo",
@@ -192,5 +52,41 @@
     "network": "impact",
     "status": "active",
     "category": "Payments & Billing"
+  },
+  {
+    "slug": "gohighlevel",
+    "name": "GoHighLevel",
+    "url": "https://www.gohighlevel.com/?fp_ref=stosh61",
+    "commission": "40% recurring lifetime",
+    "network": "firstpromoter",
+    "status": "active",
+    "category": "crm"
+  },
+  {
+    "slug": "aweber",
+    "name": "AWeber",
+    "url": "https://www.aweber.com/easy-email.htm?id=560455",
+    "commission": "Up to 50% recurring (lifetime)",
+    "network": "direct",
+    "status": "active",
+    "category": "email-marketing"
+  },
+  {
+    "slug": "surveysparrow",
+    "name": "SurveySparrow",
+    "url": "https://surveysparrowinc.pxf.io/zzegVO",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "Customer Feedback"
+  },
+  {
+    "slug": "thrivesparrow",
+    "name": "ThriveSparrow",
+    "url": "https://thrivesparrow.sjv.io/aN54qq",
+    "commission": "Impact affiliate",
+    "network": "impact",
+    "status": "active",
+    "category": "HR & Employee Engagement"
   }
 ]
